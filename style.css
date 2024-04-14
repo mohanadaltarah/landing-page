@@ -1,3 +1,4 @@
+/* header part */
 .header{
     display: flex;
     justify-content: space-around;
@@ -25,6 +26,7 @@
     font-size: 18px;
 }
 
+/* upper main part */
 .main-body{
     background-color: #1f2937;
     display: flex;
@@ -67,5 +69,24 @@
     border-radius: 5px;
     
 }
+
+/* upper content part */
+
+.content-first img{
+    height: auto;
+    width: 100px;
+}
+
+.content-first{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.images{
+    display: flex;
+}
+
+
 
 
