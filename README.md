@@ -8,6 +8,7 @@ The project is a homepage of a website and it demonstrates using HTML and CSS by
 
 ## Reflection
 
+<<<<<<< HEAD
 Although I found it pretty easy to play with flexbox, I faced some difficulties and had to review some properties in order to make sure i get the perfect result. I think I did a great job and looking forward to build a fully functioning website.
 
 ## Credits
