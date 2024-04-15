@@ -167,5 +167,15 @@ body{
 }
 
 
+/* footer part */
+
+.footer{
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#e5e7eb;
+}
+
 
 
