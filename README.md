@@ -21,8 +21,7 @@ Although I found it pretty easy to play with flexbox, I faced some difficulties 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
-###
+
     credits:
     - noomtah
     - max-icons
