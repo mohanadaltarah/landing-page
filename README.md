@@ -4,7 +4,9 @@ The aim of this project is to practice structuring and designing a full landing 
 
 ## Introduction
 
-The project is a homepage of a website and it demonstrates using HTML and CSS by focusing on the flexbox layout model
+The project is a homepage of a website and it demonstrates using HTML and CSS by focusing on the flexbox layout model.
+You can access the page here:
+https://mohanadaltarah.github.io/landing-page/
 
 ## Reflection
 
